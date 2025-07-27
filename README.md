@@ -9,7 +9,7 @@ Monitors the total attempts made and the duration taken.
 Files
 passcode_cracker.py: A python script.
 
-output.txt: Example output for passcode “1234”.
+output.txt: Example output for passcode “8307”.
 
 Requirements:
 Python 3.x
